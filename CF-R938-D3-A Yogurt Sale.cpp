@@ -13,7 +13,7 @@ int main(){
         while(a>0){
         if(a >= 2){
             cnt += d;
-            a -= 1;
+            a -= 2;
         }else{
             cnt+= b;
             a--;
